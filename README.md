@@ -1,3 +1,10 @@
+# Vi lager en enkelt spill i Svelt. 
+
+Det er en multiplikasjonsspill. 
+
+
+----
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
