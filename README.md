@@ -2,7 +2,10 @@
 
 Det er en multiplikasjonsspill. 
 
-![alt text]()
+![alt text](https://user-images.githubusercontent.com/56019427/81382918-731c6880-910f-11ea-901d-6f4e7a8acecb.jpeg)
+
+![alt text](https://user-images.githubusercontent.com/56019427/81382922-74e62c00-910f-11ea-9ab0-da3e55283aa6.jpeg)
+![alt text](https://user-images.githubusercontent.com/56019427/81382927-77488600-910f-11ea-904a-8fd824b79153.jpeg)
 
 
 ----
