@@ -1,6 +1,8 @@
-# Vi lager en enkelt spill i Svelt. 
+# Vi lager et enkelt spill i Svelt. 
 
 Det er en multiplikasjonsspill. 
+
+![alt text]()
 
 
 ----
